@@ -1,3 +1,5 @@
+<!-- Cites things easily, and lessens the code length -->
+
 <script>
     export let num, type;
 </script>

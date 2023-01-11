@@ -1,3 +1,5 @@
+<!-- The website itself! -->
+
 <script>
     import Header from "./lib/Header.svelte";
     import Section from "./lib/Section.svelte";
