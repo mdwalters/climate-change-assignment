@@ -4,6 +4,6 @@
     export let id;
 </script>
 
-<section class="m-3 rounded bg-light p-3" id={id}>
+<section class="m-3 rounded bg-light p-3 text-dark" id={id}>
     <slot/>
 </section>
